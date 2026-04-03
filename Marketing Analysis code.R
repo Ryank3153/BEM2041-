@@ -6,7 +6,7 @@ library(factoextra)
 library(tidyr)
 library(gt)
 library(readxl)
-library(scales) # For percentages
+library(scales) 
 
 Data360 <- read_excel(file.choose())
 
