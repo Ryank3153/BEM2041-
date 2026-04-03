@@ -1,4 +1,3 @@
-# install.packages(c("dplyr", "ggplot2", "cluster", "factoextra", "gt", "tidyr", "readxl", "scales"))
 
 library(dplyr)
 library(ggplot2)
